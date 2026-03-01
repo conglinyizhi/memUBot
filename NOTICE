@@ -1,0 +1,32 @@
+memU Bot - Fork
+===============
+
+This project is a fork of NevaMind-AI/memUBot, which is licensed under the
+GNU Affero General Public License v3.0 (AGPL-3.0).
+
+Original Copyright (C) NevaMind AI
+
+This fork maintains the same AGPL-3.0 license. All modifications are also
+licensed under AGPL-3.0.
+
+See LICENSE file for full license terms.
+
+-------------------------------------------------------------------------------
+Source Code Availability Notice
+-------------------------------------------------------------------------------
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+For the original source code, visit: https://github.com/NevaMind-AI/memUBot
+For this fork, visit: https://github.com/conglinyizhi/memUBot

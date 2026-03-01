@@ -2,15 +2,22 @@
   <img src="assets/memubot-logo.png" alt="memUBot Logo" width="200"/>
 </p>
 
-<h1 align="center">memU Bot</h1>
+<h1 align="center">memU Bot (Fork)</h1>
 
 <h3 align="center">The Enterprise-Ready OpenClaw.<br/>Your Proactive AI Assistant That Remembers Everything.</h3>
 
+<div align="center">
+  
+**注意**: 这是 [NevaMind-AI/memUBot](https://github.com/NevaMind-AI/memUBot) 的一个 fork，原始项目使用 AGPL-3.0 许可证。
+
+原始版权归 NevaMind AI 所有。此 fork 根据 AGPL-3.0 许可证条款进行修改和分发。
+
+</div>
+
 <p align="center">
-  <a href="https://github.com/NevaMind-AI/memUBot/blob/main/LICENSE"><img src="https://img.shields.io/github/license/NevaMind-AI/memUBot" alt="License"/></a>
-  <a href="https://github.com/NevaMind-AI/memUBot/stargazers"><img src="https://img.shields.io/github/stars/NevaMind-AI/memUBot" alt="Stars"/></a>
-  <a href="https://discord.gg/fFE4gfMvKf"><img src="https://img.shields.io/badge/Discord-Join%20Us-5865F2?logo=discord&logoColor=white" alt="Discord"/></a>
-   <a href="https://x.com/memU_ai"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=x&logoColor=white" alt="Twitter"/></a>
+  <a href="https://github.com/NevaMind-AI/memUBot/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-AGPL%203.0-blue.svg" alt="License: AGPL 3.0"/></a>
+  <a href="https://github.com/NevaMind-AI/memUBot"><img src="https://img.shields.io/badge/Original-NevaMind%2FmemUBot-green" alt="Original Project"/></a>
+  <a href="https://github.com/conglinyizhi/memUBot"><img src="https://img.shields.io/badge/Fork-conglinyizhi%2FmemUBot-orange" alt="This Fork"/></a>
 </p>
 
 <p align="center">
