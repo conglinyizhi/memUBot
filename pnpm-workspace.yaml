@@ -1,0 +1,9 @@
+ignoredBuiltDependencies:
+  - bufferutil
+  - esbuild
+  - protobufjs
+  - utf-8-validate
+  - zlib-sync
+
+onlyBuiltDependencies:
+  - electron
